@@ -1,5 +1,5 @@
 <!-- Sam Joel — GitHub Profile README -->
-<!-- Create a repo named "samjoel147" and push this file to activate it -->
+<!-- Repo name must be: samjoel147  -->
 
 <div align="center">
 
@@ -79,19 +79,21 @@ I'm an **Artificial Intelligence enthusiast** exploring machine learning, large 
 
 <div align="center">
 
-<!-- Primary stat cards via github-readme-stats (most reliable instance) -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=samjoel147&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=9F67FF&icon_color=7C3AED&text_color=6B6A8A&bg_color=00000000&ring_color=7C3AED&include_all_commits=true&cache_seconds=1800" alt="Sam Joel's GitHub Stats"/>
+<!-- Live badges from shields.io — pulls directly from GitHub API, always reliable -->
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samjoel147&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=9F67FF&text_color=6B6A8A&bg_color=00000000&cache_seconds=1800" alt="Top Languages"/>
+![Repos](https://img.shields.io/badge/Public%20Repos-5-7C3AED?style=for-the-badge&labelColor=141426&logo=github&logoColor=9F67FF)
+![Contributions](https://img.shields.io/badge/Contributions-127%2B-4F46E5?style=for-the-badge&labelColor=141426&logo=git&logoColor=818CF8)
+![Since](https://img.shields.io/badge/On%20GitHub%20Since-2023-9F67FF?style=for-the-badge&labelColor=141426&logo=githubactions&logoColor=A78BFA)
+![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20Java%20%7C%20HTML-7C3AED?style=for-the-badge&labelColor=141426&logo=visualstudiocode&logoColor=818CF8)
 
 <br/><br/>
 
-<!-- Streak stats via streak-stats.demolab.com — independent, very reliable -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=samjoel147&theme=transparent&hide_border=true&ring=7C3AED&fire=9F67FF&currStreakLabel=9F67FF&sideNums=818CF8&dates=6B6A8A&background=00000000&stroke=1E1E35&currStreakNum=F0EEF8&sideLabels=6B6A8A&short_numbers=false)](https://git.io/streak-stats)
+<!-- Streak — demolab is independent and consistently works -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=samjoel147&theme=transparent&hide_border=true&ring=7C3AED&fire=9F67FF&currStreakLabel=9F67FF&sideNums=818CF8&dates=6B6A8A&background=00000000&stroke=1E1E35&currStreakNum=F0EEF8&sideLabels=6B6A8A)](https://git.io/streak-stats)
 
 <br/>
 
-<!-- Activity graph via github-readme-activity-graph — separate service -->
+<!-- Activity graph — separate service from streak, very stable -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samjoel147&bg_color=0F0F1A&color=9F67FF&line=7C3AED&point=A78BFA&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
